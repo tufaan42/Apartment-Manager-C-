@@ -1,0 +1,27 @@
+1:Emon:3:comilla,monuhorpur:software developer:01521203860:40000
+2:Kawser:4:chadpur,hajigong:Banker:01521207858:40000
+3:Joy:5:feni,posurampur:Businessman:01687478993:40000
+4:Rahat:4:feni,bosurhat:textileengineer:01705298965:40000
+5:Jahid:4:daudkandi,comilla:civilengineer:01954245175:40000
+6:Shishir:5:nowakhali,rajbari:computerengineer:01524587896:50000
+7:Niloy:5:bramonbariya,nobinogor:serviceholder:01654857558:50000
+8:Shaik:4:posuram,feni:computerengineer:01524547895:50000
+9:Rafsanul:5:comiila,sasongacha:serviceholder:01542478963:50000
+10:Tasfid:4:comilla,jafargong:teacher:01711052695:50000
+11:Obikol:5:bramonbariya,nobinogor:serviceholder:01877145258:50000
+12:Billal:4:Pabna,lotifpur:Teacher:0115879632:50000
+13:Towfique Ahmed:3:kokadir,Nagorpur,Tansal:Banker:01785236901:350000
+14:Rakib Khan:5:Dhaka,Curain:Civil Engineer:01875301465:350000
+15:Jakiya Sultana:3:Bagura,Purabari:Doktor:01978451203:350000
+16:Suraiya Khanom:4:Borisal,MOricputi:Teacher:01624788543:350000
+17:Hasan Khan:6:Savar,nabinagar:Criketer:01547984521:350000
+18:Mahamudel Hasan:5:Srinagar,Modonkhali:Computer Engineer:0162457854:30000
+19:Abdul Kawsar Tushar:4:Kumila,Basbagan:UAP Teacher:01845685210:30000
+20:Tamzeed Ashik:3:Khuna,Curibag:Banker:015215487520:30000
+21:Rajib Hasan:5:Sripur,Kodomtoli:Doktor:01658745201:30000
+22:Md Masbudul Hasan:5:Nuyakhali,Hasirbag:MCC Teacher:01658745210:30000
+23:Harun Khan:6:Barisal,Kunapara:Bijnejman:01658745230:25000
+24:Md Anuyar:5:Dhaka,Gubinpur:Bijnejman:01587542103:25000
+25:Md Rafik Hasan:7:Foridpur,Hatirpul:Teacher:01685693659:25000
+26:Km Sofikul:5:Naoga,Barikhali:Bijenjman:01879456123:25000
+27:Md Julhas Khan:5:Srinagar,Alampur:probasi:01875421369:25000
